@@ -1,0 +1,22 @@
+Using the python write a program with the features
+
+1. Input: make your program properly process the data sample provided, as follow: 
+/home/user/project/ >> directories >> right | >> left. The program should 
+automatically identify the total of files on each directory; your application should 
+rename a set of all files to sequential numbers, if n files, attribute a number for 
+each file by random attribution, counting from 1 all the way to n. 
+
+2. Date: Change the time stamp for date and time of when the file was created to a 
+random date and time, back in time up to the last 10 days. 
+
+3. Automation: have the program displaying the names and creation timestamp of 
+files before they are changed and after they changed; Include both options to set 
+the program to run automatically either once a week, or every 30 seconds -- show 
+it automatically running 3 times. (3 points)
+
+4. Documentation: describe in word or ppt file the steps taken in your 
+implementation; 
+
+5. Submission: upload on D2L, source code/scripting/setups documentation and a 
+not zipped short video demo 5 to 10 minutes, and ppt presentation; as a comment 
+in the source code, include your name/author in the head of the program. 
